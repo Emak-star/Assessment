@@ -4,8 +4,8 @@ Energy Consumption Monitoring Solution Framework with Data Batching
 
 2. Solution Design
    
-  2.1 Updated Architecture Diagram
-    The updated architecture includes the following components:
+  2.1 Architecture Diagram
+    The architecture includes the following components:
   
     IoT Box: Collects energy consumption data and sends it to AWS IoT Core.
     
